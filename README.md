@@ -52,4 +52,4 @@ Para ver meus projetos mais detalhados e ter uma visão completa das minhas habi
 ## 🌐 Conecte-se comigo
 
 - 💼 **LinkedIn:** [Marlon Henrique](https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/)
-- 📫 **Email:** marlonhenrique99@gmail.com
+- 📫 **Email:** marlon.99henrique@gmail.com
