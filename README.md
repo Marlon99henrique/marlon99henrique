@@ -43,6 +43,7 @@ Organizado por tema (ex: análise exploratória, machine learning, automação, 
 - 🤖 **Automação em MQL5** – Robôs e indicadores para análise de dados financeiros no MetaTrader 5.  
 
 *(outros projetos estão em desenvolvimento e serão adicionados ao índice...)*  
+
 --- 
 
 ## 📈 Objetivos
