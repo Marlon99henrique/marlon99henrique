@@ -14,11 +14,14 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Python, SQL, MQL5  
+- **Bibliotecas (Python):** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Ferramentas:** Jupyter Notebook, Git & GitHub  
+- **Experiência extra:**  
+  - Automação e análise de estratégias financeiras com **MQL5** (MetaTrader 5)  
+  - Criação de indicadores, backtests e robôs de trading  
+- **Áreas de interesse:** Visualização de dados, Estatística, Machine Learning e Data-Driven Finance  
 
-- **Linguagens:** Python, SQL
-- **Bibliotecas:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Ferramentas:** Jupyter Notebook, Git & GitHub
-- **Áreas de interesse:** Visualização de dados e Engenharia de Features
 
 ---
 
