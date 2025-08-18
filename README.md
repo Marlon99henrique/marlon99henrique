@@ -27,15 +27,23 @@
 
 ## 📂 Projetos em Destaque
 
-🔹 [**Jornada em Ciência de Dados**](https://github.com/Marlon99henrique/python-data-science) – Repositório que documenta minha jornada de aprendizado, com fundamentos e projetos práticos.
+🔹 [**Jornada em Ciência de Dados**](https://github.com/Marlon99henrique/jornada-ciencia-dados)  
+Repositório que documenta minha trajetória de aprendizado.  
+Inclui certificações, anotações de estudo e fundamentos de **Python, SQL, Estatística, Machine Learning** e outros conhecimentos essenciais para Ciência de Dados.  
 
-🔹 [**Análise Exploratória com Pandas**](#) – Projeto que utiliza um dataset real para extrair insights, identificar padrões e gerar visualizações.
-
-🔹 [**Projeto de Simulação de Chunks em Jogos**](#) – Protótipo em Python focado em persistência de mundo virtual, mostrando habilidades de lógica de programação.
-
-*(mais projetos em desenvolvimento…)*
+🔹 [**Índice de Projetos**](https://github.com/Marlon99henrique/projetos-ciencia-dados)  
+Repositório que funciona como **guia central dos meus projetos**.  
+Organizado por tema (ex: análise exploratória, machine learning, automação, finanças, jogos, etc.), cada projeto listado contém um resumo e link direto para o repositório correspondente.  
 
 ---
+
+### Exemplos de Projetos (que estarão no índice)
+- 📊 **Análise Exploratória com Pandas** – Insights a partir de um dataset real, identificação de padrões e visualizações.  
+- 🎮 **Simulação de Chunks em Jogos** – Protótipo em Python focado em lógica de programação e persistência de mundo virtual.  
+- 🤖 **Automação em MQL5** – Robôs e indicadores para análise de dados financeiros no MetaTrader 5.  
+
+*(outros projetos estão em desenvolvimento e serão adicionados ao índice...)*  
+--- 
 
 ## 📈 Objetivos
 
