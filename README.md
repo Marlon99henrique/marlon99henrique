@@ -3,11 +3,11 @@
 ### Cientista de Dados em formação | Focado em transformar dados em valor para o negócio.
 
 <div align="center">
-  <a href="https://github.com/Marlon99henrique">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Meu Perfil no GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu Perfil no LinkedIn" />
+  </a>
+  <a href="https://marlon99henrique.github.io/">
+    <img src="https://img.shields.io/badge/Portfólio-00b4d8?style=for-the-badge&logo=About.me&logoColor=white" alt="Meu Portfólio Pessoal" />
   </a>
 </div>
 
@@ -34,7 +34,7 @@ Sou um estudante de Ciência de Dados com experiência prática em Python, Git e
 
 Este é o meu hub de projetos. Para uma visão completa do meu trabalho, visite os seguintes links:
 
-- **[Portfólio Pessoal](https://marlonhenrique.dev)** 🌐
+- **[Portfólio Pessoal](https://marlon99henrique.github.io/)** 🌐
   Acesse meu site para uma apresentação mais visual e detalhada dos meus projetos.
   
 - **[Índice de Projetos](https://github.com/Marlon99henrique/projetos-ciencia-dados)** 📘
