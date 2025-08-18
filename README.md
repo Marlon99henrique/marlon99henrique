@@ -1,64 +1,56 @@
-# 👋 Olá, eu sou o Marlon Henrique
+# 👋 Olá! Eu sou o Marlon Henrique
 
-🎓 Estudante de **Ciência de Dados** (3º semestre) | 📊 Focado em construir soluções baseadas em dados | 💻 Explorando **Python, Estatística e Machine Learning**
+### Cientista de Dados em formação | Focado em transformar dados em valor para o negócio.
 
----
-
-## 🚀 Sobre mim
-
-- 📍 Brasil
-- 🎯 Buscando minha primeira oportunidade na área de **Ciência de Dados**
-- 📚 Atualmente aprofundando meus conhecimentos em **Python para Análise de Dados, Estatística e Machine Learning**
-- 📂 Construindo um **portfólio prático** no GitHub com projetos aplicados
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** Python, SQL, MQL5  
-- **Bibliotecas (Python):** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Ferramentas:** Jupyter Notebook, Git & GitHub  
-- **Experiência extra:**  
-  - Automação e análise de estratégias financeiras com **MQL5** (MetaTrader 5)  
-  - Criação de indicadores, backtests e robôs de trading  
-- **Áreas de interesse:** Visualização de dados, Estatística, Machine Learning e Data-Driven Finance  
-
+<div align="center">
+  <a href="https://github.com/Marlon99henrique">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Meu Perfil no GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu Perfil no LinkedIn" />
+  </a>
+</div>
 
 ---
 
-## 📂 Projetos em Destaque
+## 💻 Resumo Profissional
 
-🔹 [**Jornada em Ciência de Dados**](https://github.com/Marlon99henrique/jornada-ciencia-dados)  
-Repositório que documenta minha trajetória de aprendizado.  
-Inclui certificações, anotações de estudo e fundamentos de **Python, SQL, Estatística, Machine Learning** e outros conhecimentos essenciais para Ciência de Dados.  
+Sou um estudante de Ciência de Dados com experiência prática em Python, Git e análise de dados. Meu objetivo é aplicar minhas habilidades em Machine Learning, Estatística e soluções de Data-Driven para gerar insights acionáveis e valor para o negócio.
 
-🔹 [**Índice de Projetos**](https://github.com/Marlon99henrique/projetos-ciencia-dados)  
-Repositório que funciona como **guia central dos meus projetos**.  
-Organizado por tema (ex: análise exploratória, machine learning, automação, finanças, jogos, etc.), cada projeto listado contém um resumo e link direto para o repositório correspondente.  
+📚 Estou documentando minha jornada de aprendizado neste perfil, construindo um portfólio prático com projetos aplicados para demonstrar minhas competências.
 
 ---
 
-### Exemplos de Projetos (que estarão no índice)
-- 📊 **Análise Exploratória com Pandas** – Insights a partir de um dataset real, identificação de padrões e visualizações.  
-- 🎮 **Simulação de Chunks em Jogos** – Protótipo em Python focado em lógica de programação e persistência de mundo virtual.  
-- 🤖 **Automação em MQL5** – Robôs e indicadores para análise de dados financeiros no MetaTrader 5.  
+## 🛠️ Habilidades Técnicas
 
-*(outros projetos estão em desenvolvimento e serão adicionados ao índice...)*  
+- **Linguagens:** Python, SQL
+- **Bibliotecas:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
+- **Ferramentas:** Jupyter Notebooks, Git & GitHub
+- **Conceitos:** Estatística, Machine Learning, Análise Exploratória de Dados
 
---- 
+---
+
+## 📂 Projetos e Portfólio
+
+Este é o meu hub de projetos. Para uma visão completa do meu trabalho, visite os seguintes links:
+
+- **[Portfólio Pessoal](https://marlonhenrique.dev)** 🌐
+  Acesse meu site para uma apresentação mais visual e detalhada dos meus projetos.
+  
+- **[Índice de Projetos](https://github.com/Marlon99henrique/projetos-ciencia-dados)** 📘
+  Repositório que funciona como um guia centralizado para todos os meus projetos práticos, organizados por tema.
+
+---
 
 ## 📈 Objetivos
 
-- Conquistar minha primeira vaga como **Cientista de Dados Júnior**
-- Compartilhar conhecimento através de projetos abertos
-- Evoluir constantemente em Machine Learning e Engenharia de Dados
+- Conquistar minha primeira vaga como **Cientista de Dados Júnior**.
+- Compartilhar conhecimento através de projetos abertos.
+- Evoluir constantemente em Machine Learning e Engenharia de Dados.
 
 ---
 
 ## 🌐 Conecte-se comigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marlon99henrique)
+- 💼 **LinkedIn:** [Marlon Henrique](https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/)
 - 📫 **Email:** marlonhenrique99@gmail.com
-
----
-
-✨ *"Transformando dados em conhecimento e decisões inteligentes."*
