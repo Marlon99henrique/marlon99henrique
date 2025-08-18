@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu Perfil no LinkedIn" />
   </a>
   <a href="https://marlon99henrique.github.io/">
-    <img src="https://img.shields.io/badge/Portfólio-00b4d8?style=for-the-badge&logo=About.me&logoColor=white" alt="Meu Portfólio Pessoal" />
+    <img src="https://img.shields.io/badge/Site%20Pessoal-00b4d8?style=for-the-badge&logo=About.me&logoColor=white" alt="Meu Site Pessoal" />
   </a>
 </div>
 
@@ -32,9 +32,12 @@ Sou um estudante de Ciência de Dados com experiência prática em Python, Git e
 
 ## 📂 Projetos e Portfólio
 
-Para ver meus projetos mais detalhados e ter uma visão completa das minhas habilidades, visite o meu portfólio pessoal:
+Para ver meus projetos mais detalhados e ter uma visão completa das minhas habilidades, visite o meu site pessoal:
 
-- **[Portfólio Completo](https://marlon99henrique.github.io/)** 🌐
+- **[Site Pessoal](https://marlon99henrique.github.io/)** 🌐
+
+- **[Índice de Projetos](https://github.com/Marlon99henrique/projetos-ciencia-dados)** 📘
+  Repositório que funciona como um guia centralizado para todos os meus projetos práticos, organizados por tema.
 
 ---
 
