@@ -46,7 +46,8 @@ Sou um estudante de Ciência de Dados com experiência prática em Python, Git e
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Contato
 
+- 🌐 **Site Pessoal:** [marlon99henrique.github.io](https://marlon99henrique.github.io/)
 - 💼 **LinkedIn:** [Marlon Henrique](https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/)
 - 📫 **Email:** marlon.99henrique@gmail.com
