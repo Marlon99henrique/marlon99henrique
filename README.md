@@ -17,8 +17,6 @@
 
 Sou um estudante de Ciência de Dados com experiência prática em Python, Git e análise de dados. Meu objetivo é aplicar minhas habilidades em Machine Learning, Estatística e soluções de Data-Driven para gerar insights acionáveis e valor para o negócio.
 
-📚 Este perfil é o meu espaço para documentar a minha jornada de aprendizado, com repositórios que mostram meus projetos e estudos.
-
 ---
 
 ## 🛠️ Habilidades Técnicas
@@ -30,14 +28,13 @@ Sou um estudante de Ciência de Dados com experiência prática em Python, Git e
 
 ---
 
-## 📂 Projetos e Portfólio
-
-Para ver meus projetos mais detalhados e ter uma visão completa das minhas habilidades, visite o meu site pessoal:
-
-- **[Site Pessoal](https://marlon99henrique.github.io/)** 🌐
+## 📂 Projetos e Jornada de Aprendizado
 
 - **[Índice de Projetos](https://github.com/Marlon99henrique/projetos-ciencia-dados)** 📘
-  Repositório que funciona como um guia centralizado para todos os meus projetos práticos, organizados por tema.
+  Repositório que funciona como um guia centralizado para todos os meus projetos práticos, organizados por tema (Análise Exploratória, Machine Learning, Web Scraping, etc.).
+
+- **[Jornada em Ciência de Dados](https://github.com/Marlon99henrique/jornada-ciencia-dados)** 🚀
+  Este repositório documenta minha trajetória de aprendizado, incluindo anotações de estudo, notebooks de fundamentos e projetos que demonstram a evolução das minhas habilidades.
 
 ---
 
