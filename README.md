@@ -1,53 +1,51 @@
-# 👋 Olá! Eu sou o Marlon Henrique
+# 👋 Olá, eu sou o Marlon Henrique  
 
-### Cientista de Dados em formação | Focado em transformar dados em valor para o negócio.
+🎯 **Cientista de Dados| Data Science Enthusiast | Machine Learning Practitioner**  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu Perfil no LinkedIn" />
-  </a>
-  <a href="https://marlon99henrique.github.io/">
-    <img src="https://img.shields.io/badge/Site%20Pessoal-00b4d8?style=for-the-badge&logo=About.me&logoColor=white" alt="Meu Site Pessoal" />
-  </a>
-</div>
+Sou apaixonado por **dados, tecnologia e aprendizado contínuo**.  
+Atualmente dedico em média **8h por dia de estudos e projetos práticos**, com a meta de evoluir diariamente até conquistar minha vaga na área de **Ciência de Dados**.  
 
 ---
 
-## 💻 Resumo Profissional
+## 🚀 Minha Jornada  
 
-Sou um estudante de Ciência de Dados com experiência prática em Python, Git e análise de dados. Meu objetivo é aplicar minhas habilidades em Machine Learning, Estatística e soluções de Data-Driven para gerar insights acionáveis e valor para o negócio.
+📌 Transformo **cursos, certificados e estudos** em **projetos práticos**, mostrando não apenas que aprendi, mas que **sei aplicar o conhecimento em problemas reais**.  
 
----
-
-## 🛠️ Habilidades Técnicas
-
-- **Linguagens:** Python, SQL
-- **Bibliotecas:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
-- **Ferramentas:** Jupyter Notebooks, Git & GitHub
-- **Conceitos:** Estatística, Machine Learning, Análise Exploratória de Dados
+👉 Repositório central da minha evolução:  
+🔗 [**Jornada de Ciência de Dados**](https://github.com/Marlon99henrique/jornada-ciencia-dados)  
 
 ---
 
-## 📂 Projetos e Jornada de Aprendizado
+## 📂 Principais Áreas de Atuação  
 
-- **[Índice de Projetos](https://github.com/Marlon99henrique/projetos-ciencia-dados)** 📘
-  Repositório que funciona como um guia centralizado para todos os meus projetos práticos, organizados por tema (Análise Exploratória, Machine Learning, Web Scraping, etc.).
-
-- **[Jornada em Ciência de Dados](https://github.com/Marlon99henrique/jornada-ciencia-dados)** 🚀
-  Este repositório documenta minha trajetória de aprendizado, incluindo anotações de estudo, notebooks de fundamentos e projetos que demonstram a evolução das minhas habilidades.
-
----
-
-## 📈 Objetivos
-
-- Conquistar minha primeira vaga como **Cientista de Dados Júnior**.
-- Compartilhar conhecimento através de projetos abertos.
-- Evoluir constantemente em Machine Learning e Engenharia de Dados.
+- 🐍 **Python & Fundamentos** → manipulação e automação de dados  
+- 📊 **Análise Exploratória (EDA)** → insights em dados reais (Netflix, TIM, Petrobras etc.)  
+- 📈 **Visualização de Dados** → storytelling e dashboards  
+- 🤖 **Machine Learning** → modelos supervisionados e não supervisionados  
+- 🎯 **Projetos Extras** → Kaggle, estudos de caso empresariais e desafios  
 
 ---
 
-## 🌐 Contato
+## 🛠️ Tecnologias & Ferramentas  
 
-- 🌐 **Site Pessoal:** [marlon99henrique.github.io](https://marlon99henrique.github.io/)
-- 💼 **LinkedIn:** [Marlon Henrique](https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/)
-- 📫 **Email:** marlon.99henrique@gmail.com
+- **Linguagem:** Python  
+- **Bibliotecas:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn  
+- **Ambientes:** Jupyter Notebook | Google Colab  
+- **Versionamento:** Git & GitHub  
+
+---
+
+## 🌐 Onde me encontrar  
+
+- 🔗 [**Portfólio / Site Pessoal**](https://marlon99henrique.github.io/)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/seu-link)  
+- 📧 **Email:** marlon.henrique@email.com  
+
+---
+
+## ✨ Curiosidade  
+
+📌 Meu objetivo atual é produzir **um projeto por dia** até conquistar minha vaga como **Cientista de Dados**.  
+Cada projeto representa **um conhecimento aplicado**, documentado no repositório principal.  
+
+> 🚀 Dados não são apenas números, são **histórias esperando para serem contadas**.  
