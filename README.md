@@ -1,28 +1,55 @@
 # 👋 Olá, eu sou o Marlon Henrique  
 
-🎯 **Cientista de Dados| Data Science Enthusiast | Machine Learning Practitioner**  
+🎯 **Cientista de Dados | Python & Machine Learning | Projetos Práticos em Negócios Reais**  
 
 Sou apaixonado por **dados, tecnologia e aprendizado contínuo**.  
-Atualmente dedico em média **8h por dia de estudos e projetos práticos**, com a meta de evoluir diariamente até conquistar minha vaga na área de **Ciência de Dados**.  
+Transformo **cursos e formações** em **projetos aplicados**, demonstrando não apenas a teoria, mas a prática em problemas reais.  
+
+Atualmente sigo uma rotina intensa de estudos e desenvolvimento de projetos, com foco em consolidar meu portfólio e compartilhar meu progresso em Ciência de Dados.  
 
 ---
 
 ## 🚀 Minha Jornada  
 
-📌 Transformo **cursos, certificados e estudos** em **projetos práticos**, mostrando não apenas que aprendi, mas que **sei aplicar o conhecimento em problemas reais**.  
-
-👉 Repositório central da minha evolução:  
+📌 Repositório central da minha evolução:  
 🔗 [**Jornada de Ciência de Dados**](https://github.com/Marlon99henrique/jornada-ciencia-dados)  
+
+📌 Site/Portfólio com resumos e projetos:  
+🔗 [**Meu Site**](https://marlon99henrique.github.io/)  
 
 ---
 
-## 📂 Principais Áreas de Atuação  
+## 📜 Formações & Certificados  
 
-- 🐍 **Python & Fundamentos** → manipulação e automação de dados  
-- 📊 **Análise Exploratória (EDA)** → insights em dados reais (Netflix, TIM, Petrobras etc.)  
-- 📈 **Visualização de Dados** → storytelling e dashboards  
-- 🤖 **Machine Learning** → modelos supervisionados e não supervisionados  
-- 🎯 **Projetos Extras** → Kaggle, estudos de caso empresariais e desafios  
+### 📊 Ciência de Dados  
+- Formação completa em **Python, Estatística, Machine Learning e projetos práticos**  
+- 🔗 [Curso](https://www.udemy.com/course/cientista-de-dados/?kw=for&src=sac&couponCode=KEEPLEARNINGBR) | 📂 [Certificado](./formacao-cientista-dados.pdf)  
+
+### 🐍 Python  
+- **Python para Engenheiros e Cientistas** – aplicações práticas em ciência e engenharia  
+  📂 [Certificado](./python-engenheiros-cientista-basico-avançado.pdf)  
+- **Programação em Python: Básico ao Avançado** – da lógica inicial a tópicos avançados  
+  📂 [Certificado](./python-basico-avancado.pdf)  
+
+### 💻 Git & Versionamento  
+- **Git e GitHub do Básico ao Avançado**  
+  📂 [Certificado](./git-github-basico-avancado.pdf)  
+
+### 🎓 Especializações  
+- **Programming and Communication** – 240h | [Certificado](./programming-and-communication.pdf)  
+- **Math Computing Basics** – 160h | [Certificado](./math-computing-basics.pdf)  
+- **Modelling Data Developer** – 240h | [Certificado](./modelling-data-developer.pdf)  
+- **Developer Thinking** – 160h | [Certificado](./developer-thinking.pdf)  
+
+---
+
+## 📂 Áreas de Atuação  
+
+- 🐍 **Python & Automação**  
+- 📊 **Análise Exploratória (EDA)**  
+- 📈 **Visualização de Dados**  
+- 🤖 **Machine Learning**  
+- 🏆 **Projetos Extras & Kaggle**  
 
 ---
 
@@ -43,9 +70,4 @@ Atualmente dedico em média **8h por dia de estudos e projetos práticos**, com 
 
 ---
 
-## ✨ Curiosidade  
-
-📌 Meu objetivo atual é produzir **um projeto por dia** até conquistar minha vaga como **Cientista de Dados**.  
-Cada projeto representa **um conhecimento aplicado**, documentado no repositório principal.  
-
-> 🚀 Dados não são apenas números, são **histórias esperando para serem contadas**.  
+> 🚀 **Missão atual:** produzir projetos práticos continuamente, consolidando meu portfólio e aplicando dados para resolver problemas reais.  
