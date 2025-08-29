@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Marlon Henrique  
 
-🎯 **Cientista de Dados | Python & Machine Learning | Projetos Práticos em Negócios Reais**  
+🎯 **Cientista de Dados | Python & Machine Learning | Projetos Aplicados em Negócios Reais**  
 
 Sou apaixonado por **dados, tecnologia e aprendizado contínuo**.  
-Transformo **cursos e formações** em **projetos aplicados**, demonstrando não apenas a teoria, mas a prática em problemas reais.  
+Minha missão é transformar **conhecimento teórico** em **soluções práticas**, desenvolvendo projetos que resolvem **problemas reais de negócio**.  
 
-📌 Meu repositório central: [**Jornada de Ciência de Dados**](https://github.com/Marlon99henrique/jornada-ciencia-dados)  
-📌 Meu portfólio: [**marlon99henrique.github.io**](https://marlon99henrique.github.io/)  
+📌 Repositório central: [**Jornada de Ciência de Dados**](https://github.com/Marlon99henrique/jornada-ciencia-dados)  
+📌 Meu SITE: [**marlon99henrique.github.io**](https://marlon99henrique.github.io/)  
 
 ---
 
@@ -18,28 +18,32 @@ Transformo **cursos e formações** em **projetos aplicados**, demonstrando não
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
 ## 📜 Formações & Certificados  
 
 - 📊 **Cientista de Dados** – Python, Estatística, Machine Learning e projetos práticos  
-  [Certificado PDF](./formacao-cientista-dados.pdf)  
+  [📄 Certificado](./formacao-cientista-dados.pdf)  
 - 🐍 **Python para Engenheiros e Cientistas**  
-  [Certificado PDF](./python-engenheiros-cientista-basico-avançado.pdf)  
+  [📄 Certificado](./python-engenheiros-cientista-basico-avançado.pdf)  
 - 🐍 **Programação em Python: Básico ao Avançado**  
-  [Certificado PDF](./python-basico-avancado.pdf)  
-- 💻 **Git e GitHub do Básico ao Avançado**  
-  [Certificado PDF](./git-github-basico-avancado.pdf)  
-- 🎓 **Especializações**: Programming and Communication (240h), Math Computing Basics (160h), Modelling Data Developer (240h), Developer Thinking (160h)  
+  [📄 Certificado](./python-basico-avancado.pdf)  
+- 💻 **Git e GitHub: Básico ao Avançado**  
+  [📄 Certificado](./git-github-basico-avancado.pdf)  
+- 🎓 **Especializações**  
+  - Programming and Communication (240h)  
+  - Math Computing Basics (160h)  
+  - Modelling Data Developer (240h)  
+  - Developer Thinking (160h)  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 Estatísticas no GitHub  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marlon99henrique&show_icons=true&theme=radical&count_private=true"/>
@@ -56,4 +60,4 @@ Transformo **cursos e formações** em **projetos aplicados**, demonstrando não
 
 ---
 
-> 🚀 **Missão atual:** produzir projetos práticos continuamente, consolidando meu portfólio e aplicando dados para resolver problemas reais.  
+> 🚀 **Objetivo atual:** continuar produzindo projetos práticos que consolidem meu portfólio e mostrem como a ciência de dados pode **gerar valor em cenários reais de negócio**.  
